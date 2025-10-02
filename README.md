@@ -48,7 +48,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/EdgarPatricio/test-vocacional-flutter.git](https://github.com/EdgarPatricio/test-vocacional-flutter.git)
+    git clone https://github.com/EdgarPatricio/test-vocacional-flutter.git
     ```
 
 2.  **Navega a la carpeta del proyecto:**
